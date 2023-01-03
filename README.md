@@ -1,7 +1,7 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-jan 3th 2023
+Jan 3th 2023
 
 ### Project Title
 tienprovip123
@@ -9,7 +9,7 @@ tienprovip123
 ### Description
 Description project bike city for project Udacity
 
-### Files used
+### Files usedpush
 Include the files used: bikeshare.py
 
 ### Credits
